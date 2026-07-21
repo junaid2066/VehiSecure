@@ -174,7 +174,7 @@ This project is intended for academic research and educational purposes.
 
 ## 👨‍💻 Author
 
-Muhammad Junaid Asif (AM-Tech)  
+Muhammad Junaid Asif 
 Computer Vision and Artificial Intelligence Researcher  
 📧 mjunaid94ee@outlook.com 
 🌐 [[LinkedIn]](https://www.linkedin.com/in/mjunaid94ee/)  
