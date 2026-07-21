@@ -174,6 +174,8 @@ This project is intended for academic research and educational purposes.
 
 ## 👨‍💻 Author
 
-**Muhammad Junaid**
-
-AI Researcher \| Computer Vision \| Intelligent Surveillance Systems
+Muhammad Junaid Asif (AM-Tech)  
+Computer Vision and Artificial Intelligence Researcher  
+📧 mjunaid94ee@outlook.com 
+🌐 [[LinkedIn]](https://www.linkedin.com/in/mjunaid94ee/)  
+🌐 [[Portfolio]](https://sites.google.com/view/junaid94ee/about-me)
