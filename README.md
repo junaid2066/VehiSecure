@@ -27,9 +27,6 @@ alerts can be generated.
 
 ## 🖼️ Application Screenshots
 
-> Create an **assets/** folder in your GitHub repository and place the
-> screenshots there.
-
 ### Login Page
 
 ![Login](assets/frame_022.png)
