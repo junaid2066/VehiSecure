@@ -25,6 +25,45 @@ alerts can be generated.
 
 ------------------------------------------------------------------------
 
+## 🖼️ Application Screenshots
+
+> Create an **assets/** folder in your GitHub repository and place the
+> screenshots there.
+
+### Login Page
+
+![Login](assets/frame_022.png)
+
+### Dashboard
+
+![Dashboard](assets/frame_021.png)
+
+### Live Monitoring
+
+![Live Monitor](assets/frame_018.png)
+
+### Vehicle Detection & OCR
+
+![Vehicle Detection](assets/frame_012.png)
+
+### Vehicle Records
+
+![Vehicle Records](assets/frame_008.png)
+
+### Blacklist Management
+
+![Blacklist](assets/frame_006.png)
+
+### Upload Vehicle Image
+
+![Upload](assets/frame_004.png)
+
+### Live Camera
+
+![Live Camera](assets/frame_002.png)
+
+------------------------------------------------------------------------
+
 ## 🏗️ System Workflow
 
 ``` text
