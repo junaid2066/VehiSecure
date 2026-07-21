@@ -41,7 +41,7 @@ alerts can be generated.
 
 ### Vehicle Detection & OCR
 
-![Vehicle Detection](assets/frame_012.png)
+![Vehicle Detection](assets/frame_021.png)
 
 ### Vehicle Records
 
